@@ -1,6 +1,8 @@
 /nginx
 /logs
 /dbdata
+/wordpress
+/ssl
 
 .env
 .yml.bak
